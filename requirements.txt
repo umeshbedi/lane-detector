@@ -1,0 +1,4 @@
+tensoflow
+scipy 
+opencv-python
+moviepy
