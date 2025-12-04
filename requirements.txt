@@ -1,4 +1,4 @@
-tensoflow
-scipy 
+tensoflow==2.19.0
+scipy==1.1.0
 opencv-python
 moviepy
